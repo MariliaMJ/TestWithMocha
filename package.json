@@ -1,0 +1,23 @@
+{
+  "name": "testwithmocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './test/**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariliaMJ/TestWithMocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariliaMJ/TestWithMocha/issues"
+  },
+  "homepage": "https://github.com/MariliaMJ/TestWithMocha#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
