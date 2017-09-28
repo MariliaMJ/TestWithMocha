@@ -1,2 +1,2 @@
 # TestWithMocha
-studies of tests using mocha for javaScript according to pluralsight lectures.
+studies of tests using mocha, with Node.Js.
